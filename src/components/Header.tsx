@@ -33,6 +33,7 @@ const styles = {
   },
 };
 
+
 const Container = styled.View`
   background-color: ${theme.colors.background};
   padding: 16px;
